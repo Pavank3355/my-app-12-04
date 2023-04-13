@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World from AWS and MAven!" );
+        System.out.println( "Hello World from AWS and Maven and Jenkins!" );
     }
 }
